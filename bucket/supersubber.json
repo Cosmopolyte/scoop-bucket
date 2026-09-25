@@ -1,10 +1,10 @@
 {
-    "version":  "1.4.0",
+    "version":  "1.4.1",
     "description":  "Find \u0026 Sync Subtitles - downloads missing subtitles for whole folders and syncs them against the audio track",
     "homepage":  "https://github.com/Cosmopolyte/supersubber",
     "license":  "MIT",
-    "url":  "https://github.com/Cosmopolyte/supersubber/releases/download/v1.4.0/supersubber-1.4.0-win64.zip",
-    "hash":  "4ab89a74bb6463d7b354749737891010cedde357a06608fe10fd6759f36304dd",
+    "url":  "https://github.com/Cosmopolyte/supersubber/releases/download/v1.4.1/supersubber-1.4.1-win64.zip",
+    "hash":  "2f1008c0c90873cd1aa0d1697553ea2fc849df12c353ac7adb0380e5551adc29",
     "extract_dir":  "supersubber",
     "bin":  "supersubber.exe",
     "shortcuts":  [
